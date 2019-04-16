@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EmmetEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>
