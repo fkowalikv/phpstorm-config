@@ -3,8 +3,11 @@
     <extensionMap>
       <mapping pattern="edit" type="Blade" />
       <mapping pattern="/comments/edit" type="Blade" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Homepa" type="PLAIN_TEXT" />
       <mapping pattern="edit.blade.php" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
