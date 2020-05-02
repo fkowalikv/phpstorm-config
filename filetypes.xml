@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="edit" type="Blade" />
       <mapping pattern="/comments/edit" type="Blade" />
-      <mapping pattern="edit.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="Homepa" type="PLAIN_TEXT" />
+      <mapping pattern="edit.blade.php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
